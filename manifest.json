@@ -1,0 +1,17 @@
+{
+    "name": "Aplikasi Informasi Sepak Bola",
+    "short_name": "Aplikasi Sepak Bola",
+    "description": "Informasi Sepak Bola",
+    "gcm_sender_id": "1025986539672",//sender key dibawah
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#00897B",
+    "theme_color": "#00897B",
+    "icons": [
+        {
+            "src": "/icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
